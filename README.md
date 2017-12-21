@@ -19,5 +19,3 @@ Click on the "Discover our story" button or scroll to enter in our immersive web
 - Changing effects with a scroll
 - Unfolding of the timeline by scrolling or with the keyboard's arrows up and down. 
 - Internal and external links
-
-### Contributors :
